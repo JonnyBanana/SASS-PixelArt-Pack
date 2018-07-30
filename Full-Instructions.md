@@ -17,7 +17,7 @@ The use of scss is very simple to learn (for those who already know the basic la
 
 <h3> How to Use the SASS Language</h3>
 
-![Alt text](https://i.imgur.com/tD2AOOp.png "SASS-PixelArt-Pack-by-Jonny-Banana")
+![Alt text](https://i.imgur.com/RaYTaDW.png "SASS-PixelArt-Pack-by-Jonny-Banana")
 
 
 
