@@ -1,0 +1,350 @@
+// Exadecimal Color Map
+$pixel-color-map: (
+  'a' :#FFFFFF,
+  'b': #000000,
+  'c': #FFE1DC,
+  'd': #FFC0B6,
+  'e': #FF9F9F,
+  'f': #FF8080,
+  'g': #FF4040,
+  'h': #FF1F35,
+  'i': #E01F25,
+  'j': #C20000,
+  'k': #A00000,
+  'l': #600000,
+  'm': #400000,
+  'n': #200000,
+  'o': #D0B1A1,
+  'p': #7F604F,
+  'q': #FFEFCE,
+  'r': #FFE1B0,
+  's': #FFC281,
+  't': #FF9F71,
+  'u': #FF8141,
+  'v': #FF421E,
+  'w': #FF1F10,
+  'x': #E12000,
+  'y': #FF0000,
+  'z': transparent,
+  'A': #E10000,
+  'B': #C21212,
+  'C': #A11F12,
+  'D': #622100,
+  'E': #E0A175,
+  'F': #A16252,
+  'G': #FFFFC2,
+  'H': #FFFF80,
+  'I': #FFFF35,
+  'J': #FFFF00,
+  'K': #FFE118,
+  'L': #FFBF18,
+  'M': #FF8100,
+  'O': #E26200,
+  'P': #BF4100,
+  'Q': #A13F00,
+  'R': #824200,
+  'S': #604200,
+  'T': #412000,
+  'U': #D2B06A,
+  'V': #806210,
+  'W': #FFFFD0,
+  'X': #F1F1B4,
+  'Y': #F1F180,
+  'Z': #E0E074,
+  'aa': #E1E140,
+  'ab': #E1E100,
+  'ac': #BFBF00,
+  'ad': #A1A100,
+  'ae': #808000,
+  'af': #626200,
+  'ag': #424200,
+  'ah': #212100,
+  'ai': #101000,
+  'aj': #C0C27C,
+  'ak': #82823F,
+  'al': #E0FFBF,
+  'am': #C2FF91,
+  'an': #80FF80,
+  'ao': #41FF32,
+  'ap': #00FF00,
+  'aq': #00E100,
+  'ar': #00C200,
+  'as': #00A000,
+  'at': #008000,
+  'au': #006000,
+  'av': #004200,
+  'aw': #002100,
+  'ax': #001000,
+  'ay': #82C168,
+  'az': #3F621F,
+  'ba': #E0FFDF,
+  'bb': #C1FFD5,
+  'bc': #82FFCA,
+  'bd': #42FFC7,
+  'be': #00FFB2,
+  'bf': #00E1AD,
+  'bg': #00C196,
+  'bh': #009F82,
+  'bi': #008250,
+  'bj': #00603C,
+  'bk': #004023,
+  'bl': #00201F,
+  'bm': #00120C,
+  'bn': #81C097,
+  'bo': #3C613E,
+  'bp': #E0FFFF,
+  'bq': #C1FFFF,
+  'br': #80FFFF,
+  'bs': #42FFFF,
+  'bt': #00FFFF,
+  'bu': #00E0E0,
+  'bv': #00C1C2,
+  'bw': #008080,
+  'bx': #006062,
+  'by': #004041,
+  'bz': #00323F,
+  'ca': #002041,
+  'cb': #00121F,
+  'cc': #7FC2BC,
+  'cd': #37605E,
+  'ce': #C2EFFF,
+  'cf': #A1E2FF,
+  'cg': #82E0FF,
+  'ch': #00C0FF,
+  'ci': #00A0E0,
+  'cj': #0080C0,
+  'ck': #4181C0,
+  'cl': #0060A0,
+  'cm': #004080,
+  'cn': #002F80,
+  'co': #002060,
+  'cp': #00204F,
+  'cq': #001040,
+  'cr': #71B2CF,
+  'cs': #104160,
+  'ct': #E0F1FF,
+  'cu': #C0E1FF,
+  'cv': #82C0FF,
+  'cw': #5291EF,
+  'cx': #2181FF,
+  'cy': #0080FF,
+  'cz': #0062E1,
+  'da': #0041C2,
+  'db': #001FE2,
+  'dc': #0000FF,
+  'dd': #0020C2,
+  'de': #0000E0,
+  'df': #0000C2,
+  'dg': #B1B1D2,
+  'dh': #424282,
+  'di': #E0E0FF,
+  'dj': #BFBFFF,
+  'dk': #9F9FFF,
+  'dl': #8080FF,
+  'dm': #6181FF,
+  'dn': #4181FF,
+  'do': #4141FF,
+  'dp': #0021BF,
+  'dq': #4040C2,
+  'dr': #2020A0,
+  'ds': #2222C0,
+  'dt': #0000A1,
+  'du': #0000AF,
+  'dv': #9F9FE0,
+  'dw': #6260A1,
+  'dx': #E8E0FF,
+  'dy': #D2BFFF,
+  'dz': #C29FFF,
+  'ea': #C082FF,
+  'eb': #A160FF,
+  'ec': #8242FF,
+  'ed': #4200FF,
+  'ee': #4100C2,
+  'ef': #4000A2,
+  'eg': #2200A1,
+  'eh': #000080,
+  'ei': #000061,
+  'ej': #00004F,
+  'ek': #C0A1E0,
+  'el': #624181,
+  'em': #F1E0FF,
+  'en': #E1BFFF,
+  'eo': #E29FFF,
+  'ep': #E081FF,
+  'eq': #C062FF,
+  'er': #C140FF,
+  'es': #C200FF,
+  'et': #8100FF,
+  'eu': #6000A1,
+  'ev': #400080,
+  'ew': #1F007F,
+  'ex': #1F0062,
+  'ey': #000040,
+  'ez': #E29FDE,
+  'fa': #603181,
+  'fb': #FFE0FF,
+  'fc': #FFC1FD,
+  'fd': #FF9FFF,
+  'fe': #FF7FFF,
+  'ff': #FF5FFF,
+  'fg': #FF42F9,
+  'fh': #FF22FF,
+  'fi': #FF00FF,
+  'fj': #E000E0,
+  'fk': #A1009F,
+  'fl': #800080,
+  'fm': #40005F,
+  'fn': #200042,
+  'fo': #EF91EB,
+  'fp': #602162,
+  'fq': #FFE0F5,
+  'fr': #FFC0E4,
+  'fs': #FF9FCF,
+  'ft': #FF82C2,
+  'fu': #FF60AF,
+  'fv': #FF40A0,
+  'fw': #F52B97,
+  'fx': #FF0080,
+  'fy': #DF007F,
+  'fz': #C0007F,
+  'ga': #820040,
+  'gb': #620042,
+  'gc': #400040,
+  'gd': #E29FC8,
+  'ge': #622152,
+  'gf': #FFE0E6,
+  'gg': #FFC0CE,
+  'gh': #FF9FA9,
+  'gi': #FF82A0,
+  'gj': #FF6088,
+  'gk': #FF4070,
+  'gl': #FF2259,
+  'gm': #FF0041,
+  'gn': #C20041,
+  'go': #9F000F,
+  'gp': #800000,
+  'gq': #620012,
+  'gr': #410012,
+  'gs': #F18FBC,
+  'gt': #813F62,
+  'gu': #F7F7F7,
+  'gv': #EFEFEF,
+  'gw': #E1E1E1,
+  'gx': #D2D2D2,
+  'gy': #C0C0C0,
+  'gz': #FFFF80,
+  'ha': #B2B2B2,
+  'hb': #A2A2A2,
+  'hc': #8F8F8F,
+  'hd': #808080,
+  'he': #5F5F5F,
+  'hf': #4F4F4F,
+  'hg': #404040,
+  'hh': #2F2F2F,
+  
+
+  
+
+  
+);
+
+// Size
+$pixel-size: 20px !default;
+
+// Pixel Art matrice
+$pixel-art:(
+  blank: (
+    (a b a b a b a b a b a b a b a b)
+    (b a b a b a b a b a b a b a b a)
+	(a b a b a b a b a b a b a b a b)
+    (b a b a b a b a b a b a b a b a)
+	(a b a b a b a b a b a b a b a b)
+    (b a b a b a b a b a b a b a b a)
+	(a b a b a b a b a b a b a b a b)
+    (b a b a b a b a b a b a b a b a)
+	(a b a b a b a b a b a b a b a b)
+    (b a b a b a b a b a b a b a b a)
+	(a b a b a b a b a b a b a b a b)
+    (b a b a b a b a b a b a b a b a)
+	(a b a b a b a b a b a b a b a b)
+    (b a b a b a b a b a b a b a b a)
+	(a b a b a b a b a b a b a b a b)
+    (b a b a b a b a b a b a b a b a)
+	)
+);
+
+// Start the Function
+@function pixelize($matrix, $size){
+    $l: length($matrix); // length of the entire
+    $sh: ''; 
+    $i: $l; 
+   
+    @for $i from 1 through $l{
+      $row: nth($matrix,$i); //
+
+      @for $j from 1 through length($row){
+          $item: nth($row,$j);
+
+          @if map-has-key($pixel-color-map, $item) {
+            $sh:  $sh + ($j*$size) + ' ' + ($i*$size) + ' ' + map-get($pixel-color-map, $item);
+          } @else {
+            @warn 'there is no color specified in "$pixel-color-map" for: "#{$item}"';
+          }
+
+        @if not ($j == length($row) and $i == $l) {
+          $sh: $sh + ',';
+        }
+      }
+    }
+
+    @return unquote($sh);
+}
+
+
+@mixin style-item($matrix, $size){
+  position: relative; 
+
+ 
+  width:($size * length(nth($matrix,1)));
+  height:($size * length($matrix));
+
+  &:after{
+    content: '';
+
+    
+    position: absolute;
+    top: (-$size);
+    left: (-$size);
+    width: $size;
+    height: $size;
+
+    
+    box-shadow: pixelize($matrix,$size);
+  }
+}
+
+
+body {
+  background: #97f0fa;
+}
+
+.css-matrice{
+  list-style: none;
+  margin: 3em auto;
+  max-width: 800px;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+
+  li {
+    display: inline-block;
+    margin: 2em;
+  }
+
+   @each $key, $value in $pixel-art{
+    &--#{$key}{
+      @include style-item($value, $pixel-size);
+    }
+  }
+}
+
