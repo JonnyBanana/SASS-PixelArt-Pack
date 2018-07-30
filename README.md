@@ -3,7 +3,7 @@ Collection of some of my scss scripts (SASS), excellent as examples to understan
 
 ![Alt text](https://i.imgur.com/w4Tv3NV.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
 
-<h1>+++SASS-Grid+++</h1>
+<h2>+++SASS-Grid+++</h2>
 
 in this directory you will find the scss array with dozens of preset hexadecimal colors.
 you can see the hexadecimal color table from here:
