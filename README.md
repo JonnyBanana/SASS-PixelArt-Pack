@@ -18,9 +18,9 @@ In this directory you will find the scss grid with dozens of preset hexadecimal 
 You can see the hexadecimal color table in the pdf inside the directory, or from here:
 
 http://www.sitiwebgallery.it/blog/tabella-colori.php
+
 </BR>
 Find complete instructions for using the grid in the Full-Instructions.md file
-</BR>
 
 <h2>+++SASS-Examples+++</h2>
 </BR>
