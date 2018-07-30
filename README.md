@@ -22,7 +22,7 @@ http://www.sitiwebgallery.it/blog/tabella-colori.php
 
 <h2>+++SASS-Examples+++</h2>
 
-![Alt text](https://i.imgur.com/puD1dDC.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
+![Alt text](https://i.imgur.com/gcWRJI2.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
 
 
 
