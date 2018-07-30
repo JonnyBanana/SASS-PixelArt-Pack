@@ -39,6 +39,8 @@ https://imgur.com/a/yQKSv3R
 
 ![Alt text](https://i.imgur.com/nt92nrL.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
 
+gli sempi e la griglia sono responsive...
+
 ![Alt text](https://i.imgur.com/s2S42oL.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
 
 
