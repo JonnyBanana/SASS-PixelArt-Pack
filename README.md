@@ -16,12 +16,6 @@ you can see the hexadecimal color table in the pdf inside the directory, or from
 
 http://www.sitiwebgallery.it/blog/tabella-colori.php
 
-
-![Alt text](https://i.imgur.com/puD1dDC.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
-
-![Alt text](https://i.imgur.com/Td34Xua.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
-
-
 <h2>+++SASS-Examples+++</h2>
 </BR>
 
