@@ -39,8 +39,15 @@ https://imgur.com/a/yQKSv3R
 
 ![Alt text](https://i.imgur.com/AGpVWkh.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
 
-gli sempi e la griglia sono responsive...
+All examples (as well as the grid) are responsive and you can easily adapt them to any type of project...
 
+![Alt text](https://i.imgur.com/JJKFJov.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
+
+![Alt text](https://i.imgur.com/6scC8CM.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
+
+
+</BR>
+YEEEEEP!!!!!
 ![Alt text](https://i.imgur.com/s2S42oL.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
 
 
