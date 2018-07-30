@@ -23,7 +23,8 @@ The use of scss is very simple to learn (for those who already know the basic la
 
 <h2>+++How it Work the Grid+++</h2>
 
-'a' :#FFFFFF,
+  'a' :#FFFFFF,
+  </BR>
   'b': #000000,
   </BR>
   'c': #FFE1DC,
@@ -31,20 +32,35 @@ The use of scss is very simple to learn (for those who already know the basic la
   'd': #FFC0B6,
   </BR>
   'e': #FF9F9F,
+  </BR>
   'f': #FF8080,
+  </BR>
   'g': #FF4040,
+  </BR>
   'h': #FF1F35,
+  </BR>
   'i': #E01F25,
+  </BR>
   'j': #C20000,
+  </BR>
   'k': #A00000,
+  </BR>
   'l': #600000,
+  </BR>
   'm': #400000,
+  </BR>
   'n': #200000,
+  </BR>
   'o': #D0B1A1,
+  </BR>
   'p': #7F604F,
+  </BR>
   'q': #FFEFCE,
+  </BR>
   'r': #FFE1B0,
+  </BR>
   's': #FFC281,
+  </BR>
   't': #FF9F71,
   'u': #FF8141,
   'v': #FF421E,
