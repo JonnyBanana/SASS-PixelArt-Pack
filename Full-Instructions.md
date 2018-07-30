@@ -25,6 +25,7 @@ The use of scss is very simple to learn (for those who already know the basic la
 
 'a' :#FFFFFF,
   'b': #000000,
+  </BR>
   'c': #FFE1DC,
   'd': #FFC0B6,
   'e': #FF9F9F,
