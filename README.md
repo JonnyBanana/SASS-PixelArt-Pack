@@ -4,9 +4,10 @@
 
 Collection of some of my scss scripts (SASS), excellent as examples to understand how Pixel Art works in scss ... You will find a preset grid with dozens of colors in hexadecimal that you can use to create any type of work in 8bit style, and some examples from which you can take inspiration.
 
-
-
 <h2>+++SASS-Grid+++</h2>
+
+![Alt text](https://i.imgur.com/6mqcKHD.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
+
 
 in this directory you will find the scss array with dozens of preset hexadecimal colors.
 you can see the hexadecimal color table in the pdf inside the directory, or from here:
