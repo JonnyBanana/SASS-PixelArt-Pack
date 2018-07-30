@@ -11,7 +11,7 @@ Collection of some of my scss scripts (SASS), excellent as examples to understan
 ![Alt text](https://i.imgur.com/6mqcKHD.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
 
 
-in this directory you will find the scss array with dozens of preset hexadecimal colors.
+In this directory you will find the scss array with dozens of preset hexadecimal colors.
 you can see the hexadecimal color table in the pdf inside the directory, or from here:
 
 http://www.sitiwebgallery.it/blog/tabella-colori.php
