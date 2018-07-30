@@ -21,7 +21,8 @@ http://www.sitiwebgallery.it/blog/tabella-colori.php
 
 ![Alt text](https://i.imgur.com/gcWRJI2.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
 
-All other directories (except +++SASS-Grid+++) contain simple examples of pixel art made by me, which you can use at your leisure.
+All other directories (except +++SASS-Grid+++) contain simple examples of pixel art made by me, 
+which you can use at your leisure.
 
 You can find the complete album here:
 
@@ -48,6 +49,7 @@ All examples (as well as the grid) are responsive and you can easily adapt them 
 
 </BR>
 YEEEEEP!!!!!
+
 ![Alt text](https://i.imgur.com/s2S42oL.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
 
 
