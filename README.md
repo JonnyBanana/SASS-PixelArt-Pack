@@ -56,7 +56,7 @@ All examples (as well as the grid) are responsive and you can easily adapt them 
 
 
 </BR>
-YEEEEEP!!!!!
+YAAAYYYYYYYYYYYYYYYYYYYYYYYYYYYY!!!!!
 
 ![Alt text](https://i.imgur.com/s2S42oL.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
 
