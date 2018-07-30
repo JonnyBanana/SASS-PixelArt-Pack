@@ -1,0 +1,27 @@
+body {
+  background: #00E0E0; }
+
+.css-matrice {
+  list-style: none;
+  margin: 3em auto;
+  max-width: 800px;
+  padding: 0;
+  text-align: center;
+  width: 100%; }
+  .css-matrice li {
+    display: inline-block;
+    margin: 2em; }
+  .css-matrice--blank {
+    position: relative;
+    width: 240px;
+    height: 340px; }
+    .css-matrice--blank:after {
+      content: '';
+      position: absolute;
+      top: -20px;
+      left: -20px;
+      width: 20px;
+      height: 20px;
+      box-shadow: 20px 20px transparent,40px 20px transparent,60px 20px transparent,80px 20px #800000,100px 20px #800000,120px 20px #800000,140px 20px #800000,160px 20px #800000,180px 20px transparent,200px 20px transparent,220px 20px transparent,240px 20px transparent,20px 40px transparent,40px 40px transparent,60px 40px #800000,80px 40px #800000,100px 40px #800000,120px 40px #800000,140px 40px #800000,160px 40px #800000,180px 40px #800000,200px 40px #800000,220px 40px #800000,240px 40px transparent,20px 60px transparent,40px 60px transparent,60px 60px #A16252,80px 60px #A16252,100px 60px #A16252,120px 60px #FFBF18,140px 60px #FFBF18,160px 60px #A16252,180px 60px #FFBF18,200px 60px transparent,220px 60px transparent,240px 60px transparent,20px 80px transparent,40px 80px #A16252,60px 80px #FFBF18,80px 80px #A16252,100px 80px #FFBF18,120px 80px #FFBF18,140px 80px #FFBF18,160px 80px #A16252,180px 80px #FFBF18,200px 80px #FFBF18,220px 80px #FFBF18,240px 80px transparent,20px 100px transparent,40px 100px #A16252,60px 100px #FFBF18,80px 100px #A16252,100px 100px #A16252,120px 100px #FFBF18,140px 100px #FFBF18,160px 100px #FFBF18,180px 100px #A16252,200px 100px #FFBF18,220px 100px #FFBF18,240px 100px #FFBF18,20px 120px transparent,40px 120px #A16252,60px 120px #A16252,80px 120px #FFBF18,100px 120px #FFBF18,120px 120px #FFBF18,140px 120px #FFBF18,160px 120px #A16252,180px 120px #A16252,200px 120px #A16252,220px 120px #A16252,240px 120px transparent,20px 140px transparent,40px 140px #A16252,60px 140px #A16252,80px 140px #FFBF18,100px 140px #FFBF18,120px 140px #FFBF18,140px 140px #FFBF18,160px 140px #A16252,180px 140px #A16252,200px 140px #A16252,220px 140px #A16252,240px 140px transparent,20px 160px transparent,40px 160px transparent,60px 160px transparent,80px 160px #FFBF18,100px 160px #FFBF18,120px 160px #FFBF18,140px 160px #FFBF18,160px 160px #FFBF18,180px 160px #FFBF18,200px 160px #FFBF18,220px 160px transparent,240px 160px transparent,20px 180px transparent,40px 180px transparent,60px 180px #800000,80px 180px #800000,100px 180px #0000E0,120px 180px #800000,140px 180px #800000,160px 180px #0000E0,180px 180px #800000,200px 180px transparent,220px 180px transparent,240px 180px transparent,20px 200px transparent,40px 200px #800000,60px 200px #800000,80px 200px #800000,100px 200px #0000E0,120px 200px #800000,140px 200px #800000,160px 200px #0000E0,180px 200px #800000,200px 200px #800000,220px 200px #800000,240px 200px transparent,20px 220px #800000,40px 220px #800000,60px 220px #800000,80px 220px #800000,100px 220px #0000E0,120px 220px #0000E0,140px 220px #0000E0,160px 220px #0000E0,180px 220px #800000,200px 220px #800000,220px 220px #800000,240px 220px #800000,20px 240px #FFBF18,40px 240px #FFBF18,60px 240px #800000,80px 240px #0000E0,100px 240px #FFBF18,120px 240px #0000E0,140px 240px #0000E0,160px 240px #FFBF18,180px 240px #0000E0,200px 240px #800000,220px 240px #FFBF18,240px 240px #FFBF18,20px 260px #FFBF18,40px 260px #FFBF18,60px 260px #FFBF18,80px 260px #0000E0,100px 260px #0000E0,120px 260px #0000E0,140px 260px #0000E0,160px 260px #0000E0,180px 260px #0000E0,200px 260px #FFBF18,220px 260px #FFBF18,240px 260px #FFBF18,20px 280px #FFBF18,40px 280px #FFBF18,60px 280px #0000E0,80px 280px #0000E0,100px 280px #0000E0,120px 280px #0000E0,140px 280px #0000E0,160px 280px #0000E0,180px 280px #0000E0,200px 280px #0000E0,220px 280px #FFBF18,240px 280px #FFBF18,20px 300px transparent,40px 300px transparent,60px 300px #0000E0,80px 300px #0000E0,100px 300px #0000E0,120px 300px transparent,140px 300px transparent,160px 300px #0000E0,180px 300px #0000E0,200px 300px #0000E0,220px 300px transparent,240px 300px transparent,20px 320px transparent,40px 320px #A16252,60px 320px #A16252,80px 320px #A16252,100px 320px transparent,120px 320px transparent,140px 320px transparent,160px 320px transparent,180px 320px #A16252,200px 320px #A16252,220px 320px #A16252,240px 320px transparent,20px 340px #A16252,40px 340px #A16252,60px 340px #A16252,80px 340px #A16252,100px 340px transparent,120px 340px transparent,140px 340px transparent,160px 340px transparent,180px 340px #A16252,200px 340px #A16252,220px 340px #A16252,240px 340px #A16252; }
+
+/*# sourceMappingURL=style.css.map */

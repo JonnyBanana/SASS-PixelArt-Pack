@@ -1,0 +1,221 @@
+// Exadecimal Color Map
+$pixel-color-map: (
+  'a' :#FFFFFF,
+  'b': #000000,
+  'c': #FFE1DC,
+  'd': #FFC0B6,
+  'e': #FF9F9F,
+  'f': #FF8080,
+  'g': #FF1F35,
+  'h': #A00000,
+  'i': #600000,
+  'j': #400000,
+  'k': #D0B1A1,
+  'l': #7F604F,
+  'm': #FF0000,
+  'n': #A16252,
+  'o': #622100,
+  'p': #806210,
+  'q': #412000,
+  'r': #604200,
+  's': #A13F00,
+  't': #FF8100,
+  'u': #FFBF18,
+  'v': #FFFF00,
+  'w': #FFFFD0,
+  'x': #BFBF00 ,
+  'y': #626200,
+  'z': transparent,
+  'A': #3F621F,
+  'B': #00603C,
+  'C': #009F82,
+  'D': #42FFC7,
+  'E': #00FF00,
+  'F': #00C200,
+  'G': #00A000,
+  'H': #006000,
+  'I': #C1FFFF,
+  'J': #00FFFF,
+  'K': #00E0E0,
+  'L': #00C0FF,
+  'M': #0080C0,
+  'O': #0060A0,
+  'P': #002F80,
+  'Q': #0080FF,
+  'R': #0000C2,
+  'S': #0000FF,
+  'T': #9F9FE0,
+  'U': #D2D2D2,
+  'V': #A2A2A2,
+  'W': #5F5F5F,
+  'X': #404040,
+  'Y': #A160FF,
+  'Z': #8242FF,
+  'aa': #C20041,
+  'ab': #6000A1,
+  'ac': #8100FF,
+  'ad': #400080,
+  'ae': #1F007F,
+  'af': #000040,
+  'ag': #E29FDE,
+  'ah': #EF91EB,
+  'ai': #F18FBC,
+  'aj': #800080,
+  'ak': #E000E0,
+  'al': #FF22FF,
+  'am': #FF5FFF,
+  'an': #FF9FFF,
+  'ao': #FFC0E4,
+  'ap': #FFE0FF,
+  'aq': #FF40A0,
+  'ar': #FF0080,
+  'as': #C0007F,
+  'at': #400040,
+  'au': #FF2259,
+  'av': #FF0041,
+  'aw': #9F000F,
+  'ax': #800000,
+  'ay': #620012,
+  'az': #410012,
+  'ba': #004023,
+  'bb': #00323F,
+  'bc': #4181FF,
+  'bd': #8080FF,
+  'be': #C2FF91,
+  'bf': #80FFFF,
+  'bg': #00E1AD,
+  'bh': #0000E0,
+  'bi': #001FE2,
+  'bj': #000080,
+  'bk': #2200A1,
+  'bl': #4000A2,
+  'bm': #C2EFFF,
+  'bn': #82C0FF,
+  'bo': #0062E1,
+  'bp': #80FF80,
+  'bq': #E0FFBF,
+  'br': #F1F1B4,
+  'bs': #F1F180,
+  'bt': #E1E140,
+  'bu': #FFE118,
+  'bv': #F8141,
+  'bw': #FF421E,
+  'bx': #FF9F71,
+  'by': #FFE1B0,
+  'bz': #FFFF80,
+  
+
+  
+);
+
+// Size
+$pixel-size: 20px !default;
+
+// Pixel Art matrice
+$pixel-art:(
+  blank: (
+  
+  (z z z z z z z z z z z z b b z z z)
+  (z z z z z z z z z z z b a a b z z)
+  (z z z z z z z z z z z b a a b z z)
+  (z z z z z z z z z z b b a a a b z)
+  (z z z z z z z z z b u b a a b b z)
+  (z z z z z z z z b u u b a a b b z)
+  (z z z z z z z z b u u u a a b b z)
+  (z z z z z z z z b u u u a a a b z)
+  (z z z z z z z z b u u u u a b u b)
+  (z z z z b b b z z b u u u u u u b)
+  (z z z b H H H b b b u u b b u u b)
+  (z z b H b H b H b a b u b z b u b)
+  (z z b H H b H H b a b u b z z b b)
+  (z b H H b H b H b a b u u b z z z)
+  (z b H b H H H b H b a b u u b b z)
+  (z b b H H H H H b b a b u u u b z)
+  (z b H b H H H b H b a b u b b z z)
+  (z b H H b H b H H b a b u b z z z)
+  (z b H H H b H H H b a b b z z z z)
+  (z z b H b H b H b a a b z z z z z)
+  (z b b b b b b b b a a b z z z z z)
+  (z b a a a a a a a a b b z z z z z)
+  (z b a a a a a a b b b u b z z z z)
+  (z z b b b b b b b u u u u b z z z)
+  (z b a u u u b z b u u u u a b z z)
+  (z b b b b b b z b b b b b b b z z)
+	)
+);
+
+// Start the Function
+@function pixelize($matrix, $size){
+    $l: length($matrix); // length of the entire
+    $sh: ''; 
+    $i: $l; 
+   
+    @for $i from 1 through $l{
+      $row: nth($matrix,$i); //
+
+      @for $j from 1 through length($row){
+          $item: nth($row,$j);
+
+          @if map-has-key($pixel-color-map, $item) {
+            $sh:  $sh + ($j*$size) + ' ' + ($i*$size) + ' ' + map-get($pixel-color-map, $item);
+          } @else {
+            @warn 'there is no color specified in "$pixel-color-map" for: "#{$item}"';
+          }
+
+        @if not ($j == length($row) and $i == $l) {
+          $sh: $sh + ',';
+        }
+      }
+    }
+
+    @return unquote($sh);
+}
+
+
+@mixin style-item($matrix, $size){
+  position: relative; 
+
+ 
+  width:($size * length(nth($matrix,1)));
+  height:($size * length($matrix));
+
+  &:after{
+    content: '';
+
+    
+    position: absolute;
+    top: (-$size);
+    left: (-$size);
+    width: $size;
+    height: $size;
+
+    
+    box-shadow: pixelize($matrix,$size);
+  }
+}
+
+
+body {
+  background: #97f0fa;
+}
+
+.css-matrice{
+  list-style: none;
+  margin: 3em auto;
+  max-width: 800px;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+
+  li {
+    display: inline-block;
+    margin: 2em;
+  }
+
+   @each $key, $value in $pixel-art{
+    &--#{$key}{
+      @include style-item($value, $pixel-size);
+    }
+  }
+}
+
