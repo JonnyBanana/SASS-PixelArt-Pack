@@ -3,7 +3,7 @@ Collection of some of my scss scripts (SASS), excellent as examples to understan
 
 
 
-![Alt text](http://i63.tinypic.com/9rjggo.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
+![Alt text](https://i.imgur.com/w4Tv3NV.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
 
 
 exadecimal color table:
