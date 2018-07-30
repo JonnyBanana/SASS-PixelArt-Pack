@@ -20,7 +20,7 @@ You can see the hexadecimal color table in the pdf inside the directory, or from
 http://www.sitiwebgallery.it/blog/tabella-colori.php
 
 </BR>
-Find complete instructions for using the grid in the Full-Instructions.md file
+You can find complete instructions for using the grid in the Full-Instructions.md file
 
 <h2>+++SASS-Examples+++</h2>
 </BR>
