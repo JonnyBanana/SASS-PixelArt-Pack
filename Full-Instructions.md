@@ -62,53 +62,101 @@ The use of scss is very simple to learn (for those who already know the basic la
   's': #FFC281,
   </BR>
   't': #FF9F71,
+  </BR>
   'u': #FF8141,
+  </BR>
   'v': #FF421E,
+  </BR>
   'w': #FF1F10,
+  </BR>
   'x': #E12000,
+  </BR>
   'y': #FF0000,
+  </BR>
   'z': transparent,
+  </BR>
   'A': #E10000,
+  </BR>
   'B': #C21212,
+  </BR>
   'C': #A11F12,
+  </BR>
   'D': #622100,
+  </BR>
   'E': #E0A175,
+  </BR>
   'F': #A16252,
+  </BR>
   'G': #FFFFC2,
+  </BR>
   'H': #FFFF80,
+  </BR>
   'I': #FFFF35,
+  </BR>
   'J': #FFFF00,
+  </BR>
   'K': #FFE118,
+  </BR>
   'L': #FFBF18,
+  </BR>
   'M': #FF8100,
+  </BR>
   'O': #E26200,
+  </BR>
   'P': #BF4100,
+  </BR>
   'Q': #A13F00,
+  </BR>
   'R': #824200,
+  </BR>
   'S': #604200,
+  </BR>
   'T': #412000,
+  </BR>
   'U': #D2B06A,
+  </BR>
   'V': #806210,
+  </BR>
   'W': #FFFFD0,
+  </BR>
   'X': #F1F1B4,
+  </BR>
   'Y': #F1F180,
+  </BR>
   'Z': #E0E074,
+  </BR>
   'aa': #E1E140,
+  </BR>
   'ab': #E1E100,
+  </BR>
   'ac': #BFBF00,
+  </BR>
   'ad': #A1A100,
+  </BR>
   'ae': #808000,
+  </BR>
   'af': #626200,
+  </BR>
   'ag': #424200,
+  </BR>
   'ah': #212100,
+  </BR>
   'ai': #101000,
+  </BR>
   'aj': #C0C27C,
+  </BR>
   'ak': #82823F,
+  </BR>
   'al': #E0FFBF,
+  </BR>
   'am': #C2FF91,
+  </BR>
   'an': #80FF80,
+  </BR>
   'ao': #41FF32,
+  </BR>
   'ap': #00FF00,
+  </BR>
   'aq': #00E100,
   'ar': #00C200,
   'as': #00A000,
@@ -287,20 +335,35 @@ The use of scss is very simple to learn (for those who already know the basic la
   
   
   (a b a b a b a b a b a b a b a b)
+  </BR>
   (b a b a b a b a b a b a b a b a)
-	(a b a b a b a b a b a b a b a b)
+  </BR>
+  (a b a b a b a b a b a b a b a b)
+  </BR>
   (b a b a b a b a b a b a b a b a)
-	(a b a b a b a b a b a b a b a b)
+  </BR>
+  (a b a b a b a b a b a b a b a b)
+  </BR>
   (b a b a b a b a b a b a b a b a)
-	(a b a b a b a b a b a b a b a b)
+  </BR>
+  (a b a b a b a b a b a b a b a b)
+  </BR>
   (b a b a b a b a b a b a b a b a)
-	(a b a b a b a b a b a b a b a b)
+  </BR>
+  (a b a b a b a b a b a b a b a b)
+  </BR>
   (b a b a b a b a b a b a b a b a)
-	(a b a b a b a b a b a b a b a b)
+  </BR>
+  (a b a b a b a b a b a b a b a b)
+  </BR>
   (b a b a b a b a b a b a b a b a)
-	(a b a b a b a b a b a b a b a b)
+  </BR>
+  (a b a b a b a b a b a b a b a b)
+  </BR>
   (b a b a b a b a b a b a b a b a)
-	(a b a b a b a b a b a b a b a b)
+  </BR>
+  (a b a b a b a b a b a b a b a b)
+  </BR>
   (b a b a b a b a b a b a b a b a)
 	
   
