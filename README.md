@@ -6,10 +6,7 @@ Collection of some of my scss scripts (SASS), excellent as examples to understan
 <h2>+++SASS-Grid+++</h2>
 
 in this directory you will find the scss array with dozens of preset hexadecimal colors.
-you can see the hexadecimal color table from here:
-
-
-exadecimal color table:
+you can see the hexadecimal color table in the pdf inside the directory, or from here:
 
 http://www.sitiwebgallery.it/blog/tabella-colori.php
 
