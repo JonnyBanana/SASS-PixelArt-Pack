@@ -1,5 +1,5 @@
 
-<h2> Fun with SASS! </h2>
+<h1> Fun with SASS! </h1>
 
 ![Alt text](https://i.imgur.com/XiLsNZ7.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
 
@@ -15,10 +15,10 @@ The use of scss is very simple to learn (for those who already know the basic la
 
 </BR>
 
-<h3> How to Use the SASS Language</h3>
+<h2>+++How to Use the SASS Language+++</h2>
 
 ![Alt text](https://i.imgur.com/RaYTaDW.png "SASS-PixelArt-Pack-by-Jonny-Banana")
 
 
 
-<h3> How it Work the Grid??? </h3>
+<h2>+++How it Work the Grid+++</h2>
