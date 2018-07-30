@@ -7,6 +7,7 @@ Collection of some of my scss scripts (SASS), excellent as examples to understan
 
 <h2>+++SASS-Grid+++</h2>
 </BR>
+
 ![Alt text](https://i.imgur.com/6mqcKHD.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
 
 
@@ -23,6 +24,7 @@ http://www.sitiwebgallery.it/blog/tabella-colori.php
 
 <h2>+++SASS-Examples+++</h2>
 </BR>
+
 ![Alt text](https://i.imgur.com/gcWRJI2.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
 
 
