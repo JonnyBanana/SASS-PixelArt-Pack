@@ -78,6 +78,8 @@ Using the grid is very simple ...
 
 Just download the +++SASS-Grid+++ folder and open the style.scss file with your favorite text editor.
 
+</BR>
+
 The first part of the code sets 242 hexadecimal colors as variables and assigns to each color a name consisting of one or two letters (a, b, c, A, aa, ab, ba etc.), this is the complete list:
 
   'a' :#FFFFFF,
@@ -562,6 +564,7 @@ The first part of the code sets 242 hexadecimal colors as variables and assigns 
   </BR>
   'hh': #2F2F2F,
   
+  </BR>
   
   The second part sets the size of individual pixels:
   
@@ -571,6 +574,7 @@ $pixel-size: 20px !default;
 
 So you can easily enlarge or shrink the pixels to fit any type of project ....
 
+</BR>
 
 The third part instead represents the real matrix, and here where the magic is born ...
 
@@ -609,12 +613,18 @@ The third part instead represents the real matrix, and here where the magic is b
   
   I have set a black and white 16 x 16 px (16 bit) matrix by default:
   
+  </BR>
+  
   ![Alt text](https://i.imgur.com/NRsO6FI.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
+  
+  </BR>
   
   
  All you need to do is change the letters that represent the color variables in hexadecimal that you want to assign to the pixel, 
  
  allowing you to easily create works of original pixel art designed pixel by pixel.
+ 
+ </BR>
  
  <h4> Enjoy your New and Shimmering Pixels ;)</h4>
  
