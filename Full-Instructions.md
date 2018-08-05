@@ -59,8 +59,11 @@ https://sass-lang.com/documentation/file.SASS_REFERENCE.html
 Using Sass is very simple:
 
 1 Create your code and save it with the .scss extension
+
 2 Open the SASS Compiler and select the file you created
+
 3 Compile the file (once compiled the .css file and the .css.map file will be created)
+
 4 Enjoy your code!
 
 (be sure to insert the .html file and the .scss file in the same folder)
