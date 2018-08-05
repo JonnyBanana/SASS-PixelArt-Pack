@@ -626,6 +626,10 @@ The third part instead represents the real matrix, and here where the magic is b
  
  </BR>
  
+ To set another background color simply look for the "body" tag and change the hexadecimal value with the desired one...
+ 
+ </BR>
+ 
  <h4> Enjoy your New and Shimmering Pixels ;)</h4>
  
  
