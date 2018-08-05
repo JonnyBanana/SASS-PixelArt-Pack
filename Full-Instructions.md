@@ -19,6 +19,8 @@ The use of scss is very simple to learn (for those who already know the basic la
 
 ![Alt text](https://i.imgur.com/RaYTaDW.png "SASS-PixelArt-Pack-by-Jonny-Banana")
 
+<h3>Installation</h3>
+
 Sass is a compiled language, so to be able to use it is therefore necessary to install one of the following compilers for Win, Linux or Mac:
 
 <a href="http://compass.kkbox.com/">Compass.app</a>
@@ -29,9 +31,34 @@ Sass is a compiled language, so to be able to use it is therefore necessary to i
 
 <a href="http://scout-app.io/">Scout-App</a>
 
+(Personally I used Koala on Windows platforms and Scout-App on Unix platforms)
+
 Complete List and Command Line Install Here:
 
 https://sass-lang.com/install
+
+<h3>Language</h3>
+
+Sass is a simple and intuitive language, you can learn in a short time...
+
+here you find the basics of language:
+
+https://sass-lang.com/guide
+
+and here the complete documentation:
+
+https://sass-lang.com/documentation/file.SASS_REFERENCE.html
+
+<h3>Files Compilation</h3>
+
+Using Sass is very simple:
+
+1 Create your code and save it with the .scss extension
+2 Open the SASS Compiler and select the file you created
+3 Compile the file (once compiled the .css file and the .css.map file will be created)
+4 Enjoy your code!
+
+(be sure to insert the .html file and the .scss file in the same folder)
 
 <h2>+++How it Work the Grid+++</h2>
 
