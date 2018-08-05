@@ -54,7 +54,7 @@ https://sass-lang.com/documentation/file.SASS_REFERENCE.html
 
 </BR>
 
-<h3>Files Compilation</h3>
+<h3>Compilation</h3>
 
 Using Sass is very simple:
 
