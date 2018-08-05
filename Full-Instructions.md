@@ -70,7 +70,15 @@ Using Sass is very simple:
 
 (be sure to insert the .html file and the .scss file in the same folder)
 
+</BR>
+
 <h2>+++How it Work the Grid+++</h2>
+
+Using the grid is very simple ...
+
+Just download the +++SASS-Grid+++ folder and open the style.scss file with your favorite text editor.
+
+The first part of the code sets 242 hexadecimal colors as variables and assigns to each color a name consisting of one or two letters (a, b, c, A, aa, ab, ba etc.), this is the complete list:
 
   'a' :#FFFFFF,
   </BR>
@@ -555,7 +563,18 @@ Using Sass is very simple:
   'hh': #2F2F2F,
   
   
+  The second part sets the size of individual pixels:
   
+  // Size
+$pixel-size: 20px !default;
+
+
+So you can easily enlarge or shrink the pixels to fit any type of project ....
+
+
+The third part instead represents the real matrix, and here where the magic is born ...
+
+
   (a b a b a b a b a b a b a b a b)
   </BR>
   (b a b a b a b a b a b a b a b a)
@@ -587,6 +606,21 @@ Using Sass is very simple:
   (a b a b a b a b a b a b a b a b)
   </BR>
   (b a b a b a b a b a b a b a b a)
+  
+  I have set a black and white 16 x 16 px (16 bit) matrix by default:
+  
+  ![Alt text](https://i.imgur.com/NRsO6FI.jpg "SASS-PixelArt-Pack-by-Jonny-Banana")
+  
+  
+ All you need to do is change the letters that represent the color variables in hexadecimal that you want to assign to the pixel, 
+ 
+ allowing you to easily create works of original pixel art designed pixel by pixel.
+ 
+ <h4> Enjoy your New and Shimmering Pixels ;)</h4>
+ 
+ 
+  
+  
 	
   
   
